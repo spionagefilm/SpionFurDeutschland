@@ -7,7 +7,7 @@ After reading 'Agent 146: The True Story of a Nazi Spy in America' (https://www.
 The book is an autobiography by Erich Gimpel, the aforementioned spy.  More about his story is on Wikipedia at https://en.wikipedia.org/wiki/Erich_Gimpel
 
 When I learned a movie about this little-known WWII spy episode had been made in Germany in 1956, called 'Spion für Deutschland', I immediately ordered a copy.  The only problem was, it was in German, and no subtitles were available.  I really wanted to watch this movie!
-I took a couple of years of high school German- not great but a start.  And I also saw this as a way to expand my meager language skills somewhat. 
+I had taken a couple of years of high school German- not great but a start.  And I also saw this as a way to expand my meager language skills somewhat. 
 I resolved to do my best to learn what I could to translate it and to use all the resources I could.  But I realized I was a bit over my head from the beginning.
 
 I started by using an online AI based transcription service, http://sonix.ai.  For $20 (with some credit left over), the result was not too bad, a start, and also it was directly able to output a movie subtitle file.  I realized that a lot of dialogue was being missed, especially that which was more indistinct or in the background.
