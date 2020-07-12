@@ -37,7 +37,7 @@ For now due to copyright issues I don't want to post the video file publicly. If
 Better yet if you buy a copy of the film.
 I also want it to be clear that I have no commercial interest in this, this is purely a curious little rabbit hole of a passion project.
 
-I will trust Git to handle managing multiple contributors. It occurred to try and break it into pieces and have each contributor select an unused piece to work on, but I'm not sure of a way to do that.  If anyone has suggestions please feel free to get in touch through git or at spionagefilm@gmail.com.
+I will trust Git to handle managing multiple contributors. It occurred to try and break it into pieces and have each contributor select an unused piece to work on, but I'm not sure of a way to do that or if it's really necessary or a good idea.  If anyone has suggestions please feel free to get in touch through git or at spionagefilm@gmail.com.
 
 And lastly, thanks very much for your help.
 
