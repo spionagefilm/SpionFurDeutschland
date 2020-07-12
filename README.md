@@ -39,7 +39,7 @@ VLC can play the subtitled version (http://www.videolan.org).  It uses an .srt f
 You need a github account (free).
 Please feel free to contribute even the slightest of improvements. You can do this by editing the file directly (possible but maybe not recommended as you can screw things up fairly easily), or by downloading Subtitle Workshop and working directly with the movie and project files in their user interface (git will track all the additions and changes by contributor).
 
-For now due to copyright issues I don't want to post the video file publicly. If someone contacts me at spionagefilm@gmail.com this can be arranged given participation in the project and better yet if you buy a copy of the film. I also want it to be clear that I have no commercial interest in this, this is purely a curious little rabbit hole of a passion project.
+For now due to copyright issues I don't want to post the video file publicly. If someone contacts me at spionagefilm@gmail.com and makes a request / shows a commitment such as buying a copy of the film this can be arranged. I also want it to be clear that I have no commercial interest in this, this is purely a curious little rabbit hole of a passion project.
 
 I will trust Git to handle managing multiple contributors. It occurred to try and break it into pieces and have each contributor select an unused piece to work on, but I'm not sure of a way to do that or if it's really necessary or a good idea.  If anyone has suggestions please feel free to get in touch through git or at spionagefilm@gmail.com.
 
