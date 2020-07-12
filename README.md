@@ -3,7 +3,7 @@ Assist with translating a 1950's German film, 'Spion fur Deutschland' to English
 
 If you have the ability and the time, why not help with a movie subtitle transcription and translation project!
 
-After reading 'Agent 146: The True Story of a Nazi Spy in America' (https://www.amazon.com/gp/product/0312307977/), about a Nazi spy who was dropped off in America to spy on the Manhattan Project to develop the Atomic Bomb, I was fascinated.
+After reading 'Agent 146: The True Story of a Nazi Spy in America' (https://www.amazon.com/gp/product/0312307977/), about a Nazi spy who was dropped off by U-boat in America to spy on the Manhattan Project to develop the Atomic Bomb, I was fascinated.
 The book is an autobiography by Erich Gimpel, the aforementioned spy.  More about his story is on Wikipedia at https://en.wikipedia.org/wiki/Erich_Gimpel
 
 When I learned a movie about this little-known WWII spy episode had been made in Germany in 1956, called 'Spion für Deutschland', I immediately ordered a copy from
