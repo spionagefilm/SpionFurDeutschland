@@ -1,5 +1,5 @@
 # SpionFurDeutschland
-Assist with translating a 1950's German film, 'Spion fur Deutschland' to English subtitles
+Assist with translating a 1950's German film, 'Spion fur Deutschland' to English subtitles (1 hour 36 minutes long movie)
 
 If you have the ability and the time, why not help with a movie subtitle transcription and translation project!
 
@@ -11,7 +11,7 @@ I had taken a couple of years of high school German- not great but a start.  And
 I resolved to do my best to learn what I could to translate it and to use all the resources I could.  But I realized I was a bit over my head from the beginning.
 
 I started by using an online AI based transcription service, http://sonix.ai.  For $20 (with some credit left over), the result was not too bad, a start, and also it was directly able to output a movie subtitle file.  I realized that a lot of dialogue was being missed, especially that which was more indistinct or in the background.
-I did a pass using my basic German understanding along with Google Translate to translate what was there.  The result was watchable, but a bit frustratingly dumb.
+I did a pass using my basic German understanding along with Google Translate to add to the transcription and translate what was there.  The result was watchable, but a bit frustratingly dumb.
 
 At the same time, I became aware of AI-based colorization technology, specifically DeOldify  https://github.com/jantic/DeOldify
 Great! why not translate and colorize this movie.
