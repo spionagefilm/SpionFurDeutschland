@@ -19,7 +19,7 @@ Great! why not translate and colorize this movie.
 It takes a lot of processing power but the results were interesting. I translated and colorized the movie trailer as a test project.  It took an overnight run just to process the trailer using the default google collab projects.
 I learned much about how to set up DeOldify, with the goal of setting up a bootable USB drive to boot my normally Windows machine into Linux to do the processing on my own machine.  Eventually I was successful (subject of a future post).
 I also had just built a new gaming machine for my son, which happened to have an Nvidia 2070 Super. It turned out to be very good at processing colorization.
-Initial results were it took about 14 hours to colorize 3 minutes of video on my laptop with GTX 1070.  Still, I broke up the movie into 3 minute chunks and was ready to process it that way. However, once the 2070 Super was online and everything was working, it took 4 hours 41 minutes to process the entire hour and a half long movie (8.6 frames per second colorization).
+Initial results were it took about 14 hours to colorize 3 minutes of video on my laptop with GTX 1070.  Still, I broke up the movie into 3 minute chunks and was ready to process it that way. However, once the 2070 Super was online and everything was working, it took 4 hours 41 minutes to process the entire hour and a half long movie (8.6 frames per second colorization). The result is not perfect, but I think this technology will improve over time.
 
 Here is the trailer (click CC to enable subtitles).
 https://www.youtube.com/watch?v=K8JIcB4DfWU
