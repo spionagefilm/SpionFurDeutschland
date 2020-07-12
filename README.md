@@ -6,7 +6,10 @@ If you have the ability and the time, why not help with a movie subtitle transcr
 After reading 'Agent 146: The True Story of a Nazi Spy in America' (https://www.amazon.com/gp/product/0312307977/), about a Nazi spy who was dropped off in America to spy on the Manhattan Project to develop the Atomic Bomb, I was fascinated.
 The book is an autobiography by Erich Gimpel, the aforementioned spy.  More about his story is on Wikipedia at https://en.wikipedia.org/wiki/Erich_Gimpel
 
-When I learned a movie about this little-known WWII spy episode had been made in Germany in 1956, called 'Spion für Deutschland', I immediately ordered a copy.  The only problem was, it was in German, and no subtitles were available.  I really wanted to watch this movie!
+When I learned a movie about this little-known WWII spy episode had been made in Germany in 1956, called 'Spion für Deutschland', I immediately ordered a copy from
+https://www.amazon.com/gp/product/B015EW74HU
+
+The only problem was, it was in German, and no subtitles were available.  I really wanted to watch this movie!
 I had taken a couple of years of high school German- not great but a start.  And I also saw this as a way to expand my meager language skills somewhat. 
 I resolved to do my best to learn what I could to translate it and to use all the resources I could.  But I realized I was a bit over my head from the beginning.
 
