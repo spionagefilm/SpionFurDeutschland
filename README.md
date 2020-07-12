@@ -33,6 +33,9 @@ http://subworkshop.sourceforge.net/download.php
 
 VLC can play the subtitled version (http://www.videolan.org).  It uses an .srt file. I have included these also.
 
+You need a github account (free).
+Please feel free to contribute even the slightest of improvements. You can do this by editing the file directly (possible but maybe not recommended as you can screw things up fairly easily), or by downloading Subtitle Workshop and working directly with the movie and project files in their user interface (git will track all the additions and changes by contributor).
+
 For now due to copyright issues I don't want to post the video file publicly. If someone contacts me at spionagefilm@gmail.com I will send them a link to the video file.
 Better yet if you buy a copy of the film.
 I also want it to be clear that I have no commercial interest in this, this is purely a curious little rabbit hole of a passion project.
