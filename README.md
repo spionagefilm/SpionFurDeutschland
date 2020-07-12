@@ -41,6 +41,10 @@ I will trust Git to handle managing multiple contributors. It occurred to try an
 
 And lastly, thanks very much for your help.
 
+Where to go from here:
 
+I expect that like me, people who participate in this project at most want to watch the movie with english subtitles, or want to show it to someone (or are sufficiently interested otherwise for some reason to participate). It's open for discussion what to do with this after that. Possibly we could get in touch with the publisher eventually and offer it to them in case they want to add subtitles to the DVD. There may also be sites where the subtitles could be submitted. Open for suggestions.
+
+thanks again.
 
 
