@@ -25,7 +25,8 @@ Here is the trailer (click CC to enable subtitles).
 https://www.youtube.com/watch?v=K8JIcB4DfWU
 
 
-How to help
+How to help:
+
 I am using Subtitle Workshop to edit the subtitles and scrub through the movie.  It allows you to keep both languages, transcription and translation in the same file.
 It uses an '.stp' extension file, available in the Files section of this project.
 http://subworkshop.sourceforge.net/download.php
